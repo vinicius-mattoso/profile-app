@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  height: 1000px;
+    background-color: rgb(47, 0, 255);
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(rgb(47, 0, 255), rgb(151, 199, 231));
 }
 
 .App-logo {
